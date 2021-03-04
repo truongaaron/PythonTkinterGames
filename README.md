@@ -1,6 +1,6 @@
 # PythonTkinterGames
 
-Includes games that I have created using Python's Tkinter Library such as a Flappy Bird, Snake, Sudoku, and Tic-Tac-Toe
+Includes prototypes of games that I have created using Python's Tkinter Library such as a Flappy Bird, Snake, Sudoku, and Tic-Tac-Toe!
 
 How do I play these games?
 
